@@ -1,6 +1,6 @@
 {
   "appName": "Spotify Premium",
-  "version": "1.2.2",
+  "version": "1.2.1",
   "forceUpdate": true,
   "updateUrl": "https://bit.ly/4gNPnhG",
   "btnUpdateText": "UPDATE NOW",
