@@ -1,0 +1,12 @@
+{
+  "appName": "CapCut Premium",
+  "version": "18.6.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4gNPnhG",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Unlocked Premium Version",
+ "No ads"
+ ]
+}
